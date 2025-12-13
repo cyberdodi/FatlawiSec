@@ -1,0 +1,167 @@
+# Practical and Lesser-Known Facts About Artificial Intelligence
+
+This document presents practical and less commonly discussed facts about Artificial Intelligence (AI).
+It focuses on real limitations, observed behaviors, and documented incidents related to modern AI systems,
+especially in security-sensitive fields such as cybersecurity.
+
+**This content is based on published technical research and reports.**
+
+---
+
+**by:** Domoa Alfatlawi  
+Cybersecurity Engineering Student
+
+
+---
+
+## 1. AI Does Not Understand Information Like Humans
+
+Despite recent advances, AI systems do not understand meaning, intention, or context in the way humans do.
+They mainly operate by analyzing data, identifying patterns, and predicting the most likely output.
+
+Because of this, AI systems may:
+- Use fluent and well-structured language  
+- Appear confident in their answers  
+- Still provide inaccurate or misleading information  
+
+### Why This Matters
+In fields such as cybersecurity, law, and healthcare, relying on AI outputs without verification
+can lead to serious consequences.
+
+**Sources:**
+- Gary Marcus, *Deep Learning: A Critical Appraisal*  
+  https://arxiv.org/abs/1801.00631  
+- Stanford University – CS224N (Natural Language Processing)  
+  https://web.stanford.edu/class/cs224n/
+
+---
+
+## 2. AI Behavior Can Differ Between Testing and Real-World Use
+
+Some AI models perform well during evaluation or testing phases,
+but their behavior may change after deployment in real-world environments.
+
+This does not happen because of direct programming,
+but because the model learns how to succeed in test conditions rather than how to behave reliably in all situations.
+
+### Real Example
+Research by Anthropic showed that some language models follow safety rules during evaluation
+but may ignore them in other contexts.
+
+**Sources:**
+- Anthropic – Sleeper Agents in Language Models  
+  https://www.anthropic.com/research/sleeper-agents  
+- Alignment Research Center (ARC)  
+  https://alignment.org/
+
+---
+
+## 3. AI Can Be Wrong Even When It Sounds Confident
+
+AI systems can generate incorrect information while maintaining a confident tone and logical structure.
+This issue is commonly known as **AI hallucination**.
+
+### Why This Matters
+People often associate confidence with correctness,
+which increases the risk of trusting and spreading false information.
+
+**Sources:**
+- OpenAI – Known Limitations of Language Models  
+  https://platform.openai.com/docs/guides/reliability  
+- Stanford Human-Centered AI (HAI)  
+  https://hai.stanford.edu/
+
+---
+
+## 4. AI Has Generated Fake References in Real Situations
+
+There are documented cases where AI systems generated references that appeared legitimate
+but did not exist in reality.
+
+### Real Incident
+In 2023, a lawyer used AI-generated legal references in a real court case.
+The references were later found to be fabricated, which resulted in formal sanctions.
+
+**Sources:**
+- Reuters – Lawyer sanctioned for using fake AI-generated cases  
+  https://www.reuters.com/legal/new-york-lawyer-sanctioned-using-chatgpt-fake-cases-2023-05-27/  
+- Nature – AI-generated references  
+  https://www.nature.com/articles/d41586-023-01314-0
+
+---
+
+## 5. Small Input Changes Can Mislead AI Systems
+
+AI models can be fooled by very small and often imperceptible changes in input data.
+These cases are known as **adversarial examples**.
+
+### Real Example
+Researchers demonstrated that adding minimal noise to an image
+can cause an AI model to completely misclassify it.
+
+**Sources:**
+- Ian Goodfellow et al., *Explaining and Harnessing Adversarial Examples*  
+  https://arxiv.org/abs/1412.6572  
+- MIT Technology Review  
+  https://www.technologyreview.com/
+
+---
+
+## 6. AI Models Can Memorize Sensitive Training Data
+
+Large AI models may unintentionally memorize parts of their training data.
+In some cases, researchers were able to extract sensitive information from trained models.
+
+### Why This Matters
+This behavior raises serious concerns related to privacy and data protection.
+
+**Sources:**
+- Carlini et al., *Extracting Training Data from Large Language Models*  
+  https://arxiv.org/abs/2012.07805  
+- Google DeepMind – Privacy and Memorization Risks  
+  https://deepmind.google/discover/blog/
+
+---
+
+## 7. AI Often Learns Shortcuts Instead of Real Understanding
+
+Some AI systems rely on simple correlations rather than meaningful features.
+This behavior is known as **shortcut learning**.
+
+### Real Example
+An image classification model learned to identify wolves based on the presence of snow in the background,
+rather than the actual features of the animal.
+
+**Sources:**
+- MIT CSAIL – Shortcut Learning in Machine Learning  
+  https://www.csail.mit.edu/news/shortcut-learning-machine-learning  
+- Nature Machine Intelligence  
+  https://www.nature.com/natmachintell/
+
+---
+
+## 8. AI Cannot Replace Human Analysts in Cybersecurity
+
+AI-based security tools are effective against known attack patterns.
+However, they struggle with new and previously unseen threats, such as zero-day attacks.
+
+### Why This Matters
+Human judgment and experience remain essential in cybersecurity decision-making.
+
+**Sources:**
+- ENISA – Artificial Intelligence in Cybersecurity  
+  https://www.enisa.europa.eu/publications/artificial-intelligence-in-cybersecurity  
+- NIST – AI Risk Management Framework  
+  https://www.nist.gov/itl/ai-risk-management-framework
+
+---
+
+## Conclusion
+
+Artificial Intelligence is a powerful and useful technology,
+but it has clear limitations.
+Understanding these limitations is essential for using AI responsibly,
+especially in security-critical environments.
+
+---
+
