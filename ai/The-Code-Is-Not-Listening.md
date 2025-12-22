@@ -75,7 +75,7 @@ Additional High-Credibility Awareness Resources
 Stanford HAI https://hai.stanford.edu/ MIT Technology Review AI Section https://www.technologyreview.com/ai/ European Union AI Act Resources https://artificialintelligenceact.eu/ OECD AI Policy Observatory https://oecd.ai/ BBC Future — AI Editorials https://www.bbc.com/future/tags/artificial-intelligence NYTimes AI Analysis https://www.nytimes.com/spotlight/artificial-intelligence
 
 Personal Academic Position
-As a cybersecurity engineering student, I respect AI deeply. It is powerful,
+As a IT engineering student, I respect AI deeply. It is powerful,
 innovative, and central to the future. However, understanding it correctly is essential.
 AI learns. AI adapts. AI improves.
 But it does not think like humans, does not feel like humans, and does not replace human awareness or responsibility.
