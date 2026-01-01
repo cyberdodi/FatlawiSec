@@ -1,175 +1,83 @@
 
+Introduction to Cybersecurity
 
-## 1. What is Security?
-
-Security refers to protecting data, systems, and networks from attacks, damage, misuse, or unauthorized access.
-
----
-
-## 2. Types of Security
-
-### **Computer Security**
-Protects data stored inside computers and prevents unauthorized access or manipulation.
-
-### **Network Security**
-Protects data while it is being transmitted across a network.
-
-### **Internet Security**
-Protects data during transmission across multiple interconnected networks (the Internet).
-
----
-
-## 3. What is Cyber Security?
-
-Cyber Security is the technology and processes designed to protect networks, devices, programs, and data from cyber-attacks or unauthorized access.
-
----
-
-## 4. Domains in Cyber Security
-
-- Security and Risk Management  
-- Software Development Security  
-- Security Assessment and Testing  
-- Security Operations  
-- Asset Security  
-- Communication and Network Security  
-- Identity and Access Management  
-
----
-
-## 5. Importance of Cyber Security for Individuals
-
-### **1. Protecting Personal Data**
-Prevents identity theft, financial fraud, and misuse of personal information.
-
-### **2. Maintaining Online Privacy**
-Ensures users have control over their personal data and prevents unauthorized sharing.
-
-### **3. Securing Online Transactions**
-Protects financial information when performing online payments or transactions.
-
----
-
-## 6. Types of IT Security
-
-### **Network Security**
-Prevents unauthorized users from accessing internal networks.
-
-### **Internet Security**
-Protects online activities such as browsing and web-based applications.
-
-### **Endpoint Security**
-Secures devices like laptops, phones, and tablets.
-
-### **Cloud Security**
-Protects SaaS applications, cloud data, and cloud-based infrastructure.
-
-### **Application Security**
-Identifies and fixes vulnerabilities within software code.
-
----
-
-## 7. How Cyber Security Works
-
-- Strong and unique passwords  
-- Two-factor authentication  
-- Antivirus software  
-- Anti-phishing awareness  
-- Securing DNS  
-- Regular system and software updates  
-- Firewalls  
-- Cryptography (encryption)  
-
----
-
-## 8. Challenges in Implementing Information Security
-
-1. Rapidly evolving threats  
-2. Difficulty integrating security into business processes  
-3. Employee non-compliance with security policies  
-4. Limited financial and human resources  
-
----
-
-## 9. Most Common Cyber Attacks
-
-- Denial of Service (DoS) attack  
-- Malware attack  
-- Man-in-the-Middle attack  
-- Phishing  
-- Cross-Site Scripting (XSS)  
-- Password attacks  
-- SQL Injection attack  
-- Eavesdropping attack  
-- Birthday attack  
-
----
-
-## 10. The CIA Triad
-
-### **Confidentiality**
-Ensures data is accessible only to authorized users.
-
-### **Integrity**
-Ensures data is accurate, unchanged, and trustworthy.
-
-### **Availability**
-Ensures information and systems are accessible when needed.
-
----
-
-## 11. Cybercrime
-
-Cybercrime refers to criminal activities involving computers or network devices.
-
-### **Types of Cybercrime**
-
-**1. Computer-Assisted Crimes**  
-Crimes where computers are used as tools (e.g., fraud, DoS attacks).
-
-**2. Computer as the Target**  
-Attacks aimed at computers, networks, or stored data (e.g., viruses, sniffing).
-
-**3. Computers Incidental to Crime**  
-Computer is not required but is used for organization (e.g., storing illegal data).
-
----
-
-## 12. Motives Behind Cybercrime
-
-- Financial gain  
-- Political or ideological goals  
-- Causing fear or chaos  
-- Information theft and manipulation  
-- Damaging reputation  
-- Military objectives  
-- Demanding ransom  
-
----
-
-## 13. Cyber Security Certifications
-
-- CompTIA Security+  
-- Certified Ethical Hacker (CEH)  
-- CISSP  
-- CISA  
-- CISM  
-- CRISC  
-- CCSP  
-
----
-
-## 14. Career Paths in Cyber Security
-
-- Network Security Administrator  
-- Risk Analyst  
-- Penetration Tester  
-- Firewall Specialist  
-- IDS/IPS Engineer  
-- Incident Response Specialist  
-- Cybersecurity Consultant  
-- Malware Analyst  
-
----
+Cybersecurity is the practice of protecting digital systems, networks, and data from unauthorized access, damage, or misuse. As technology becomes part of daily life, securing digital information is no longer optional but necessary.
 
 
+
+...........................
+
+In the early days of computing, computers were isolated systems. There was no internet, no remote access, and very limited risk. Security became important only after computers started connecting to networks and sharing data.
+
+Source:
+https://www.computerhistory.org/internethistory/
+
+.........................
+
+Cybersecurity focuses on protecting everything that exists in the digital world. This includes personal devices, organizational networks, applications, and stored information. It is not a single tool, but a combination of technologies, policies, and user awareness.
+
+Source:
+https://www.cisa.gov/what-cybersecurity
+
+..........................
+
+Security operates at different levels. Computer security protects individual machines, network security protects data while it moves between devices, and internet security protects communication across large interconnected systems. Each level addresses different risks.
+
+Source:
+https://www.cloudflare.com/learning/security/what-is-cybersecurity/
+
+................
+
+Cybersecurity is critical because modern services depend on digital infrastructure. Online banking, healthcare systems, cloud services, and communication platforms all require secure systems to function safely and reliably.
+
+Source:
+https://www.ibm.com/topics/cybersecurity
+
+.................
+
+Cyber threats come in many forms. Malware, phishing attacks, denial-of-service attacks, and password-based attacks are among the most common. Many attacks succeed not because systems fail, but because users are unaware of risks.
+
+Source:
+https://www.enisa.europa.eu/topics/cyber-threats
+
+......................
+Protection in cybersecurity relies on multiple defensive techniques. These include authentication mechanisms, firewalls, encryption, regular software updates, and security awareness. No single method can provide complete protection.
+
+Source:
+https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security
+
+....................
+
+A core concept in cybersecurity is the CIA Triad. Confidentiality ensures that information is accessed only by authorized users. Integrity ensures that data remains accurate. Availability ensures that systems remain accessible when needed.
+
+Source:
+https://www.cisco.com/site/us/en/learn/topics/security/what-is-the-cia-triad.html
+
+..................
+
+Cybercrime refers to illegal activities that involve computers or networks. Attackers may seek financial gain, political influence, data theft, or system disruption. Understanding attacker motivation helps improve defensive strategies.
+
+Source:
+https://www.interpol.int/en/Crimes/Cybercrime
+
+...............
+
+Cybersecurity is also a growing career field. Roles include security analysts, penetration testers, network security engineers, incident responders, and risk management specialists. Each role focuses on a specific aspect of digital protection.
+
+Source:
+https://www.comptia.org/career-pathway/cybersecurity
+
+...............
+
+Cybersecurity is an ongoing process. As technology evolves, new threats appear, and security measures must adapt. Maintaining secure systems requires continuous learning, monitoring, and improvement.
+
+Source:
+https://www.sans.org/security-resources/
+
+....................
+
+
+
+Cybersecurity exists to protect trust in the digital world. Without it, modern systems cannot operate safely. Understanding its basic concepts is the first step toward using technology securely and responsibly.
+
+⸻
